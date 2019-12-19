@@ -8,3 +8,5 @@ For best practice, we encourage you to use containers and media queries to contr
 
 - width: 350px
 - height: 500px
+
+We'd also ask that you add your company name to {PARTNERNAME} within the iFrame UTM code.
